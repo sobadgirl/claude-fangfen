@@ -186,7 +186,9 @@ Claude Code 默认强制同一时间只有一个会话，超过这个就不正�
 
 **第四件事，别急着开新号。** 环境没换就重开，新号大概率活不过一周，而且会把新环境也污染掉。
 
-完整的止损和重开流程在 [use-claude-in-china](https://github.com/sobadgirl/use-claude-in-china)。如果不想自己一步步换，也可以看 [get-claude-in-china](https://github.com/sobadgirl/get-claude-in-china) 里我们做的事。
+完整的止损和重开流程在 [use-claude-in-china](https://github.com/sobadgirl/use-claude-in-china)。不想自己一步步换，看 [get-claude-in-china](https://github.com/sobadgirl/get-claude-in-china)：环境整套搭好，封号退部署费。
+
+微信：cjdb2026
 
 ## 9. 自查表
 
